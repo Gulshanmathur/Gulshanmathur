@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/mathurgulshan" target="blank"><img src="https://img.shields.io/twitter/follow/mathurgulshan?logo=twitter&style=for-the-badge" alt="mathurgulshan" /></a> </p>
 
-<img align="right" alt="GIF" src="https://i.gifer.com/2GU.gif" width="300"/>
+<img align="right" alt="GIF" src="https://i.gifer.com/2GU.gif" width="250"/>
 
 - 🔭 I’m currently working on [**Golokc -Multivendor ecommerce webapp**](https://frontend-ecom-teal.vercel.app/)
 
