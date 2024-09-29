@@ -1,3 +1,4 @@
+![Header](https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg?sanitize=true)
 <h1 align="center">Hi 👋, I'm Gulshan Mathur</h1>
 <h3 align="center">I'm Full Stack Developer and Software Engineer.</h3>
 
@@ -5,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gulshanmathur" alt="gulshanmathur" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/iem.gulshan" target="blank"><img src="https://img.shields.io/twitter/follow/iem.gulshan?logo=twitter&style=for-the-badge" alt="iem.gulshan" /></a> </p>
+<p align="left"> <a href="https://twitter.com/mathurgulshan" target="blank"><img src="https://img.shields.io/twitter/follow/mathurgulshan?logo=twitter&style=for-the-badge" alt="mathurgulshan" /></a> </p>
 
 - 🔭 I’m currently working on [**Golokc -Multivendor ecommerce webapp**](https://frontend-ecom-teal.vercel.app/)
 
@@ -23,12 +24,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/iem.gulshan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iem.gulshan" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/gulshan-mathur-0687131a3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gulshan-mathur-0687131a3/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/" height="30" width="40" /></a>
+<a href="https://twitter.com/mathurgulshan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mathurgulshan" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/gulshan-mathur-0687131a3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gulshan-mathur-0687131a3/" height="30" width="40" /></a>
+<a href="https://instagram.com/iem.gulshan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iem.gulshan" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/gulshanmathur556" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/gulshanmathur556" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/the_finder/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/the_finder/" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/user/gulshanmathur/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/gulshanmathur/" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/u/the_finder/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="u/the_finder/" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/user/gulshanmathur/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="user/gulshanmathur/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
